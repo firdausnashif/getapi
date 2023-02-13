@@ -1,0 +1,103 @@
+{
+success: true,
+message: "get data food success",
+data: [
+{
+	foodId:"1",
+	name_food : "Nasi Goreng",
+	description: "Nasi goreng dilengkapi dengan toping udang. Nasi goreng merupakan sajian nasi yang digoreng dalam sebuah wajan atau penggorengan menghasilkan cita rasa berbeda karena dicampur dengan bumbu-bumbu seperti bawang putih, bawang merah, merica dan kecap manis. Selain itu, ditambahkan bahan-bahan pelengkap seperti telur, sayur-sayuran, makanan laut, atau daging. Makanan tersebut sering kali disantap sendiri atau disertai dengan hidangan lainnya. Nasi goreng adalah komponen populer dari masakan Asia Timur, Tenggara dan Selatan pada wilayah tertentu.",
+	price: 20000,
+	code: "IDR",
+	image: "http://kbu-cdn.com/dk/wp-content/uploads/nasi-goreng-seafood.jpg"
+},
+{
+	foodId:"2",
+	name_food : "Siomay",
+	description: "Siomay Khas bandung dengan Sambal Kacang yang Gurih. Siomay merupakan salah satu jenis dimsum, yang berasal dari kata shaomai, dalam Bahasa Mandarin. Cara membuat siomay dalam resep masakan tradisional China memiliki bahan dasar daging babi cincang yang dibungkus kulit dari tepung terigu. Meskipun ada pula yang terbuat dari udang, sapi, dan kepiting. Kemudian disajikan dengan cocolan kecap asin dan cuka",
+	price: 15000,
+	code: "IDR",
+	image: "https://img.mbizmarket.co.id/products/thumbs/800x800/2020/04/21/2adbd0732495c0f4216673fd9ae98d86.jpg"
+},
+{
+	foodId:"3",
+	name_food : "Pizza",
+	description: "Toping keju & sosis. Piza adalah hidangan gurih dari Italia sejenis adonan bundar dan pipih, yang dipanggang di oven dan biasanya dilumuri saus tomat serta keju dengan bahan makanan tambahan lainnya yang bisa dipilih. Keju yang dipakai biasanya mozzarella atau keju pizza, bisa juga keju parmesan dan beberapa keju lainnya.",
+	price: 90000,
+	code: "IDR",
+	image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHfHq1DHH43NR48NSscFEujQ549xEv0n6Sw&usqp=CAU"
+},
+{
+	foodId:"4",
+	name_food : "Dim Sum",
+	description: "Dim Sum bandung all you can eat. Disajikan dengan steamer bambu, dimsum jadi salah satu jenis kuliner yang sangat akrab dengan orang Indonesia. Dahulu kala, masyarakat China menyajikan dimsum sebagai salah satu kuliner wajib dalam acara-acara besar dan peringatan khusus. Meski merupakan bagian dari bentuk penyajian makanan khas Tionghoa, dimsum sudah sangat familiar di berbagai negara. Penyajiannya menyesuaikan dengan selera masyarakat setempat.",
+	price: 20000,
+	code: "IDR",
+	image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhRPhM3sU1kU3ULJLA34qmd0UwgodzoClMA&usqp=CAU"
+},
+{
+	foodId:"5",
+	name_food : "Ayam Keprabon",
+	description: "ayam keprabon cup package free ongkir. Menu andalannya Ayam Keprabon adalah Geprek Blenger yang merupakan Ayam geprek ditambah topping keju mozzarella dan telur disajikan diatas nasi hangat di dalam paperbowl dilengkapi sambal spesial khas Ayam Keprabon. Ayam Keprabon selalu menggunakan bahan-bahan terbaik dan berkualitas dan selalu mengedepankan pelayanan prima.",
+	price: 25000,
+	code: "IDR",
+	image: "https://ayamkeprabon.com/data/foto_berita/geprek%20jumbo(2).jpg"
+},
+{
+	foodId:"6",
+	name_food : "Ayam Geprek",
+	description: "Ayam gepreknya disajikan dengan toping sambal yang bisa dipilih. terdapat beberapa level pedas, dari mulai level 1 sampai level 5. anda bisa menikmati ayam geprek dengan paket 15rb sudah termasuk es jeruk dingin dan nasi. dapatkan voucher gratis beli 2 gratis 1.",
+	price: 15000,
+	code: "IDR",
+	image: "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2018/11/03/2438712862.jpg"
+},
+{
+	foodId:"7",
+	name_food : "Es Cendol",
+	description: "Es cendol cery. Cendol merupakan minuman khas Sunda yang dahulunya terbuat dari tepung hunkwe, namun kini cendol terbuat dari tepung beras, disajikan dengan es parut serta gula merah cair dan santan. Rasa minuman ini manis dan gurih. Di daerah Sunda minuman ini dikenal dengan nama cendol sedangkan di Jawa Tengah dikenal dengan nama es dawet. ",
+	price: 10000,
+	code: "IDR",
+	image: "https://infokuliner.com/wp-content/uploads/2014/12/resep-cara-membuat-es-cendol.jpg"
+},
+{
+	foodId:"8",
+	name_food : "Es Pisang Ijo",
+	description: "es pisang ijo kemasan cup. Es pisang ijo terbuat dari pisang yang dibalut dengan terigu dan dikukus sehingga hingga matang. pisang yang dibalut terigu berwarna hijau dicampurkan dengan kacang, roti dan es siap disajikan.",
+	price: 5000,
+	code: "IDR",
+	image: "https://www.tokomesin.com/wp-content/uploads/2015/03/es-pisangijotokomesin-300x169.jpg"
+},
+{
+	foodId:"9",
+	name_food : "Ayam Teriaki",
+	description: "Teriyaki Chicken is a very popular Japanese dish",
+	price: 35000,
+	code: "IDR",
+	image: "https://i8b2m3d9.stackpathcdn.com/wp-content/uploads/2019/06/Teriyaki_Chicken_New_3503-500x500.jpg"
+},
+{
+	foodId:"10",
+	name_food : "Ramen",
+	description: "Ramen extra pedas. Ramen merupakan olahan makanan khas Jepang dari bahan dasar mie yang berkuah. Ciri khas dari ramen adalah bentuk mie yang tipis dan berwana kuning. Sepintas mie yang digunakan dalam ramen mirip dengan mie instan yang ada di Indonesia, namun jika diperhatikan dengan seksama mie ramen memiliki diameter yang lebih kecil. Mie tersebut kemudian dimaasukan kedalam sebuah mangkuk yang berisi kuah yang terbuat dari berbagai jenis kaldu.",
+	price: 25000,
+	code: "IDR",
+	image: "https://images3.alphacoders.com/693/thumb-1920-693686.jpg"
+},
+{
+	foodId:"11",
+	name_food : "Sushi",
+	description: "N/A",
+	price: 35000,
+	code: "IDR",
+	image: "https://media-cdn.tripadvisor.com/media/photo-s/09/11/4f/c0/sakura-sushi-house.jpg"
+},
+{
+	foodId:"12",
+	name_food : "Bakso Extra Pedas",
+	description: "Bakso extra pedas dengan bubu cabai pilihan. bakso ekstra pedas terdapat beberapa macam ukuran, kecil, sedang dan besar. bakso ekstra pedas dengan 30 cabai pilihan terbaik.",
+	price: 45000,
+	code: "IDR",
+	image: "https://i0.wp.com/kesatu.co/kesatu-uploads/2020/03/IMG-20191219-WA0000.jpg?fit=507%2C380&ssl=1"
+}
+
+]
+}
